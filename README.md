@@ -46,7 +46,7 @@
  ### - 📱 SOCIAL
   
  <div> 
- <a href = "mailto:lucassiqueiranadir@gmail.com" /a><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href = "mailto:lucassiqueiranadir@gmail.com"></a><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/lucas-siqueira-68253721a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <img align="right" alt="Lucas-Gif" height="120" width="130" src="https://media.discordapp.net/attachments/879043719863607450/879043778864902154/Webp.net-gifmaker.gif?width=454&height=454">
   </div>
