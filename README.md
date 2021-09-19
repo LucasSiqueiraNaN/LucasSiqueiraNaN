@@ -36,7 +36,7 @@
  ### - 🎓📚 EDUCATION
   
  <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-visual" height="40" width="200" href = "https://pt.khanacademy.org/profile/kaid_1196515766096479234676221/courses" src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white">
+  <a href = "https://pt.khanacademy.org/profile/kaid_1196515766096479234676221/courses"><img align="center" alt="Lucas-visual" height="40" width="200" src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white">
   <img align="center" alt="Lucas-visual" height="40" width="200" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
   <img align="center" alt="Lucas-visual" height="40" width="200" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347">   
 </div>
