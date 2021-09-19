@@ -36,7 +36,8 @@
  ### - 🎓📚 EDUCATION
   
  <div style="display: inline_block"><br>
-  <a href = "https://pt.khanacademy.org/profile/kaid_1196515766096479234676221/courses"><img align="center" alt="Lucas-visual" height="40" width="200" src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white">
+ < a href = " https://pt.khanacademy.org/profile/kaid_1196515766096479234676221/courses" img align="center" alt="Lucas-visual" height="40" width="200"  src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white"></a>
+    
   <img align="center" alt="Lucas-visual" height="40" width="200" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
   <img align="center" alt="Lucas-visual" height="40" width="200" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347">   
 </div>
@@ -46,7 +47,7 @@
  ### - 📱 SOCIAL
   
  <div> 
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  < a href = "mailto:lucassiqueiranadir@gmail.com"> target="_blank"></a>
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/lucas-siqueira-68253721a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <img align="right" alt="Lucas-Gif" height="120" width="130" src="https://media.discordapp.net/attachments/879043719863607450/879043778864902154/Webp.net-gifmaker.gif?width=454&height=454">
   </div>
