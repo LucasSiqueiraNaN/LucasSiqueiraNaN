@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Lucas Siqueira 👋
 
-- 🔭 Hoje curso ensino médio com técnico de informática
-- 🌱 Estudando C#
+- 🔭 Ensino médio com técnico de informática
+- 🌱 Estudante/Estagiário
 - 📫 lucassiqueiranadir@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/LucasSiqueiraNaN">
