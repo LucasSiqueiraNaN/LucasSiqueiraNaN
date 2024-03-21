@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Siqueira 👋
 
-- 🔭 Ensino médio com técnico de informática
+- 🔭 Técnico de informática / Data Science
 - 🌱 Dev. Full Stack - Angular / .NET
 - 📫 lucassiqueiranadir@gmail.com
 
